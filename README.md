@@ -1,6 +1,12 @@
-### Hi there 👋
+```
+    __  ___          __                _     
+   /  |/  /__  _____/ /_  ____ _____  (_)____
+  / /|_/ / _ \/ ___/ __ \/ __ `/ __ \/ / ___/
+ / /  / /  __/ /__/ / / / /_/ / / / / / /__  
+/_/  /_/\___/\___/_/ /_/\__,_/_/ /_/_/\___/ 
+```
 
-![Status](https://github-readme-stats.vercel.app/api?username=mechsix&show_icons=true&theme=gotham)
+![Status](https://github-readme-stats.vercel.app/api?username=mechsix&show_icons=true&theme=gotham&hide=contribs,stars)
 
 <!--
 **mechsix/mechsix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
